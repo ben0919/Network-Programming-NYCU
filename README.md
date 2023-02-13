@@ -18,7 +18,7 @@ This is the repository about the four projects of the graduate-level Network Pro
 - **Socket Programming**
 - **Synchronous/Asynchronous IO**
 #### Project 3. [HTTP Server and CGI Programs](https://github.com/ben0919/Network-Programming-NYCU/tree/main/Project%203)
-- ** HTTP Server**
+- **HTTP Server**
 - **Commom Gateway Interface (CGI)**
 - Synchronous/Asynchronous IO
 #### Project 4. [SOCKS 4](https://github.com/ben0919/Network-Programming-NYCU/tree/main/Project%204)
