@@ -11,17 +11,17 @@ This is the repository about the four projects of the graduate-level Network Pro
 - **Firewall**
 
 ## Links
-##### Project 1. [Shell](https://github.com/ben0919/Network-Programming-NYCU/tree/main/Project%201)
+#### Project 1. [Shell](https://github.com/ben0919/Network-Programming-NYCU/tree/main/Project%201)
 - UNIX Programming
-##### Project 2. [Remote Working Groud Server](https://github.com/ben0919/Network-Programming-NYCU/tree/main/Project%202)
+#### Project 2. [Remote Working Groud Server](https://github.com/ben0919/Network-Programming-NYCU/tree/main/Project%202)
 - UNIX Programming
 - Socket Programming
 - Synchronous/Asynchronous IO
-##### Project 3. [HTTP Server and CGI Programs](https://github.com/ben0919/Network-Programming-NYCU/tree/main/Project%203)
+#### Project 3. [HTTP Server and CGI Programs](https://github.com/ben0919/Network-Programming-NYCU/tree/main/Project%203)
 - Synchronous/Asynchronous IO
 - HTTP Server
 - Commom Gateway Interface (CGI)
-##### Project 4. [SOCKS 4](https://github.com/ben0919/Network-Programming-NYCU/tree/main/Project%204)
+#### Project 4. [SOCKS 4](https://github.com/ben0919/Network-Programming-NYCU/tree/main/Project%204)
 - Proxy, SOCKS
 - Synchronous/Asynchronous IO
 - Commom Gateway Interface (CGI)
